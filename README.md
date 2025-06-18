@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shubham Swarnakar
 
-<!--
-**shubh24billu/shubh24billu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Engineer | GPT + LangChain Developer | Python Enthusiast  
+🎯 Focused on GenAI, NLP, LLMs, and End-to-End ML Pipelines  
+📍 Based in Bilaspur, India  
+📫 [LinkedIn](https://www.linkedin.com/in/shubham-swarnakar-26bb5a150/) | ✉️ swarnakarshubham24@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I'm an AI/ML Engineer and Data Scientist with 2.5+ years of experience delivering machine learning and GenAI-powered solutions. I specialize in Retrieval-Augmented Generation (RAG), Python development, vector databases, and full-stack data science pipelines.
+
+Currently diving deep into:
+- 🧠 Generative AI (LangChain, OpenAI)
+- 🔍 Retrieval-Augmented Generation (FAISS, ChromaDB)
+- 🚀 LLMOps, Prompt Engineering
+- 📊 Machine Learning Pipelines & Model Deployment
+
+---
+
+### 🔧 Skills & Tech Stack
+
+**Languages**: `Python` `SQL`  
+**Frameworks**: `LangChain` `OpenAI API` `FastAPI` `Streamlit`  
+**ML Tools**: `Scikit-learn` `PyTorch` `Hugging Face Transformers`  
+**Vector DBs**: `FAISS` `ChromaDB`  
+**Deployment**: `Docker` `Gradio` `MLflow`  
+**Analytics**: `Pandas` `NumPy` `Power BI`  
+**Dev**: `Git` `VSCode` `Postman`
+
+---
+
+### 📌 Featured Projects
+
+🔹 [🧾 Multi-PDF RAG Chatbot (LangChain + FAISS)](https://github.com/shubh24billu/rag-pdf-chatbot)  
+Interact with multiple PDFs using OpenAI + LangChain + FAISS, deployed via Streamlit.
+
+🔹 [📈 Telecom Churn Prediction](https://github.com/shubh24billu/Telecom-churn-Deployment)  
+Built, trained, and deployed ML model to predict customer churn with deployment pipeline.
+
+🔹 [🤖 Resume Screener with GPT & FastAPI](https://github.com/shubh24billu/resume-screening-bot)  
+GPT-powered intelligent resume filter and scorer based on job descriptions.
+
+🔹 [📂 Python Utilities & Interview Prep](https://github.com/shubh24billu/python_codes)  
+A curated collection of Python scripts for data handling, cleaning, and quick interviews.
+
+---
+
+### 📚 Currently Learning
+- LangChain Agents & Tools
+- PySpark & Distributed ML
+- MLOps: MLflow + Docker + FastAPI
+- Advanced Prompt Engineering Techniques
+
+---
+
+### 🧑‍💻 GitHub Stats
+
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubh24billu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh24billu&layout=compact&theme=radical)
+
+---
+
+### 💡 Fun Facts
+
+- 🧠 I love breaking down complex AI concepts into real-world, working prototypes.
+- 🏆 Hackathons and side-projects fuel my creativity.
+- 💬 Always happy to connect, collaborate, or help with AI/ML problems!
+
+---
+
+📢 *“Build fast. Fail fast. Learn faster.”*  
+🌟 Thanks for visiting my profile — let's connect & innovate together!

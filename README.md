@@ -32,14 +32,8 @@ Currently diving deep into:
 
 ### 📌 Featured Projects
 
-🔹 [🧾 Multi-PDF RAG Chatbot (LangChain + FAISS)](https://github.com/shubh24billu/rag-pdf-chatbot)  
-Interact with multiple PDFs using OpenAI + LangChain + FAISS, deployed via Streamlit.
-
 🔹 [📈 Telecom Churn Prediction](https://github.com/shubh24billu/Telecom-churn-Deployment)  
 Built, trained, and deployed ML model to predict customer churn with deployment pipeline.
-
-🔹 [🤖 Resume Screener with GPT & FastAPI](https://github.com/shubh24billu/resume-screening-bot)  
-GPT-powered intelligent resume filter and scorer based on job descriptions.
 
 🔹 [📂 Python Utilities & Interview Prep](https://github.com/shubh24billu/python_codes)  
 A curated collection of Python scripts for data handling, cleaning, and quick interviews.

@@ -3,12 +3,12 @@
 🚀 AI/ML Engineer | GPT + LangChain Developer | Python Enthusiast  
 🎯 Focused on GenAI, NLP, LLMs, and End-to-End ML Pipelines  
 📍 Based in Bilaspur, India  
-📫 [LinkedIn](https://www.linkedin.com/in/shubham-swarnakar-26bb5a150/) | ✉️ swarnakarshubham24@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/shubham2swarnakar) | ✉️ shubham2swarnakar@gmail.com
 
 ---
 
 ### 🧠 About Me
-I'm an AI/ML Engineer and Data Scientist with 2.5+ years of experience delivering machine learning and GenAI-powered solutions. I specialize in Retrieval-Augmented Generation (RAG), Python development, vector databases, and full-stack data science pipelines.
+I'm an AI/ML Engineer and Data Scientist with 2+ years of experience delivering machine learning and GenAI-powered solutions. I specialize in Retrieval-Augmented Generation (RAG), Python development, vector databases, and full-stack data science pipelines.
 
 Currently diving deep into:
 - 🧠 Generative AI (LangChain, OpenAI)

@@ -46,22 +46,7 @@ A curated collection of Python scripts for data handling, cleaning, and quick in
 - MLOps: MLflow + Docker + FastAPI
 - Advanced Prompt Engineering Techniques
 
----
 
-### 🧑‍💻 GitHub Stats
-
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubh24billu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh24billu&layout=compact&theme=radical)
-
----
-
-### 💡 Fun Facts
-
-- 🧠 I love breaking down complex AI concepts into real-world, working prototypes.
-- 🏆 Hackathons and side-projects fuel my creativity.
-- 💬 Always happy to connect, collaborate, or help with AI/ML problems!
-
----
 
 📢 *“Build fast. Fail fast. Learn faster.”*  
 🌟 Thanks for visiting my profile — let's connect & innovate together!

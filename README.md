@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Shubham Swarnakar
 
+##Open To Work As Data Scientist
+
 🚀 AI/ML Engineer | GPT + LangChain Developer | Python Enthusiast  
 🎯 Focused on GenAI, NLP, LLMs, and End-to-End ML Pipelines  
 📍 Based in Bilaspur, India  

@@ -2,7 +2,7 @@
 
 ## Open To Work As Data Scientist
 
-🚀 AI/ML Engineer | GPT + LangChain Developer | Python Enthusiast  
+🚀 AI/ML Engineer | GPT + LangChain Developer 
 🎯 Focused on GenAI, NLP, LLMs, and End-to-End ML Pipelines  
 📍 Based in Bilaspur, India  
 📫 [LinkedIn](https://www.linkedin.com/in/shubham2swarnakar) | ✉️ shubham2swarnakar@gmail.com
